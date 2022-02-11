@@ -1,0 +1,70 @@
+body{
+	background-image:url("https://www.mwallpapers.com/download-image/772696/1080x608");
+    background-size:cover;
+	
+	}
+.main{
+background-image: linear-gradient(to right, blue , skyblue);
+margin-bottom:50px;
+	}
+.main h1{
+	margin-left:500px;
+}
+
+.container{
+	margin-top:100px;
+	border:1px solid blue;
+	padding-bottom:60px;
+	width:700px;
+	background-color:#87CEFA;
+	opacity:0.9;
+	font-weight:bold;
+}
+
+#btn1{
+	margin-left:300px;
+}
+
+#btn2{
+	background-image: linear-gradient(to right, blue , skyblue);
+	width:150px;
+	margin-left:220px;
+	margin-bottom:30px;
+	font-size:20px;
+}
+
+.login{
+	margin-top:70px;
+	background-color:white;
+	width:550px;
+	margin-left:400px;
+	opacity:0.9;
+	padding-bottom:50px;
+	font-weight:bold;
+	
+}
+.p1{
+	color:blue;
+	margin-left:100px;
+	
+}
+.p2{
+	color:black;
+	margin-left:200px;
+}
+#link1{
+	text-decoration:none;
+	color:black;
+	width:120px;
+	margin-left:100px;
+	font-weight:bold;
+	margin-top:10px;	
+}
+#link2{
+	text-decoration:none;
+	color:black;
+	width:120px;
+	font-weight:bold;
+	margin-top:10px;
+
+}
